@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # coding:utf-8
-# Mans00r
+
 import os
 import re
 
